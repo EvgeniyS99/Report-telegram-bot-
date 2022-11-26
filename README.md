@@ -8,7 +8,7 @@
 
 **feed_report.py** - DAG по отправке отчета по новостной ленте.\
 **report_app.py** - DAG по отправке отчета по всему приложению.
-### Пример отчета во всем приложении за 19-11-2022:
+### Пример отчета по всему приложении за 19-11-2022:
 
 ОТЧЕТ ПО ПРИЛОЖЕНИЮ ЗА 19-11-2022
 
@@ -50,5 +50,5 @@ DAU на текущий момент: 2257\
 
 <img src='https://user-images.githubusercontent.com/106237959/204054876-48a0efd9-3551-4c73-909f-f4e2eda99fe7.png' width='400' height='400'/> <img src='https://user-images.githubusercontent.com/106237959/204056168-2045aff4-57f4-4eda-a071-34dc2bd8977e.png' width='512' height='350'/>
 
-### Пример отчета в новостной ленте за 19-11-2022:
+### Пример отчета по новостной ленте за 19-11-2022:
 <img src='https://user-images.githubusercontent.com/106237959/204055229-737fcd8a-528f-42e8-b167-3e99abc159be.png' width='400' height='400'/>
